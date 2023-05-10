@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 # https://packaging.python.org/en/latest/specifications/declaring-project-metadata/
 [project]
 name = "montecarlo"
-description = "convert to binary"
+description = "montecarlo"
 dynamic = ["version"]
 readme = "README.md"
 authors = [

@@ -166,7 +166,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'montecarlo', 'montecarlo Documentation',
-     author, 'montecarlo', 'convert to binary',
+     author, 'montecarlo', 'montecarlo',
      'Miscellaneous'),
 ]
 

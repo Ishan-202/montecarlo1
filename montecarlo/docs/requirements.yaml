@@ -6,7 +6,6 @@ dependencies:
   - pip
 
 
-
-    # Pip-only installs
-  #- pip:
+  # Pip-only installs
+  - pip:
 
